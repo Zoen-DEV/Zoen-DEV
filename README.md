@@ -7,5 +7,5 @@ Soy una persona proactiva, organizada y responsable, con buenas habilidades inte
 Estoy buscando un puesto desafiante donde pueda continuar aprendiendo y aportar con todo lo que se a los proyectos que se me presenten.
 
 ¿𝑻𝒆 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒂 𝒎𝒊 𝒑𝒆𝒓𝒇𝒊𝒍? 𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒂𝒎𝒆:
->📧 enzoholgadodev@gmail.com
+>📧 enzoholgadodev@gmail.com <br>
 ☎️ +57 322 380 4216
