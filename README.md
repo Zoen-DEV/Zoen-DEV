@@ -1,4 +1,4 @@
-𝙎𝙤𝙗𝙧𝙚 𝙢𝙞:
+👤𝙎𝙤𝙗𝙧𝙚 𝙢𝙞:
 > Hola, mi nombre es Enzo, soy Fullstack developer.
 Soy una persona proactiva, organizada y responsable, con buenas habilidades interpersonales. Tengo 1 año de experiencia en el desarrollo de aplicaciones webs complejas con tecnologías basadas en Javascript.
 
