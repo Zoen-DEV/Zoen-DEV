@@ -13,14 +13,14 @@ Estoy buscando un puesto desafiante donde pueda continuar aprendiendo y aportar 
 español/english
 
 𝑨𝒃𝒐𝒖𝒕:
-Hi, My name is Enzo. I'm a Fullstack web developer.
+> Hi, My name is Enzo. I'm a Fullstack web developer.
 I am a proactive, organized and responsible person, with good interpersonal skills. I have 1 year of experience developing complex web applications with Javascript-based technologies.
 
 𝑾𝒉𝒐 𝑰 𝒂𝒎?
-I have worked in teams where I have been able to contribute a lot with my knowledge to the projects, helping my
+> I have worked in teams where I have been able to contribute a lot with my knowledge to the projects, helping my
 colleagues to find solutions and to make the workflow more productive. I always have the best disposition to carry out the tasks assigned to me.
 I am looking for a challenging position where I can continue learning and contribute with everything I know to the projects that come my way.
 
 𝑨𝒓𝒆 𝒚𝒐𝒖 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒆𝒅 𝒊𝒏 𝒎𝒚 𝒑𝒓𝒐𝒇𝒊𝒍𝒆? 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝒎𝒆:
-    📧  enzoholgadodev@gmail.com
+  > 📧  enzoholgadodev@gmail.com
     ☎️  +57 322 380 4216
