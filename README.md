@@ -9,7 +9,7 @@ Soy una persona proactiva, organizada y responsable, con buenas habilidades inte
 Estoy buscando un puesto desafiante donde pueda continuar aprendiendo y aportar con todo lo que se a los proyectos que se me presenten.
 
 𝑻𝒆𝒄𝒏𝒐𝒍𝒐𝒈𝒊𝒂𝒔 𝒒𝒖𝒆 𝒎𝒂𝒏𝒆𝒋𝒐:
-> 𝑳𝒆𝒏𝒈𝒖𝒂𝒋𝒆𝒔: Javascript, Typescript. <br>
+> 𝑳𝒆𝒏𝒈𝒖𝒂𝒋𝒆𝒔: Javascript, Typescript, Git. <br>
   𝗕𝗮𝗰𝗸𝗲𝗻𝗱: Node.js, Nest.js, Express, Sequelize, posgresql, mySql, nodemailer, etc. <br>
   𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: React.js, React-native, Redux, Css, Sass, Bootstrap, Material-UI, Native-base, etc.
 
