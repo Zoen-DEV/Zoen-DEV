@@ -8,6 +8,11 @@ Soy una persona proactiva, organizada y responsable, con buenas habilidades inte
 > He trabajado en equipos donde he podido aportar mucho con mis conocimientos tanto en backend como en frontend a los proyectos, ayudando a mis compañeros a encontrar soluciones y a que sea mas productivo el flujo de trabajo. Siempre tengo la mejor disposición para realizar las tareas que se me asignan.
 Estoy buscando un puesto desafiante donde pueda continuar aprendiendo y aportar con todo lo que se a los proyectos que se me presenten.
 
+𝑻𝒆𝒄𝒏𝒐𝒍𝒐𝒈𝒊𝒂𝒔 𝒒𝒖𝒆 𝒎𝒂𝒏𝒆𝒋𝒐:
+> 𝑳𝒆𝒏𝒈𝒖𝒂𝒋𝒆𝒔: Javascript, Typescript. <br>
+  𝗕𝗮𝗰𝗸𝗲𝗻𝗱: Node.js, Nest.js, Express, Sequelize, posgresql, mySql, nodemailer, etc. <br>
+  𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: React.js, React-native, Redux, Css, Sass, Bootstrap, Material-UI, Native-base, etc.
+
 ¿𝑻𝒆 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒂 𝒎𝒊 𝒑𝒆𝒓𝒇𝒊𝒍? 𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒂𝒎𝒆:
 >📧 enzoholgadodev@gmail.com <br>
 ☎️ +57 322 380 4216
