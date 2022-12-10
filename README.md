@@ -33,6 +33,12 @@ Estoy buscando un puesto desafiante donde pueda continuar aprendiendo y aportar 
   𝗕𝗮𝗰𝗸𝗲𝗻𝗱: Node.js, Nest.js, Express, Sequelize, posgresql, mySql, nodemailer, etc. <br>
   𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: React.js, Next.js, React-native, Redux, Css, Sass, Tailwind Bootstrap, Material-UI, Native-base, etc.
 
+## Statistics 🧐
+
+[![Gon159x's GitHub stats](https://github-readme-stats.vercel.app/api?username=gon159x&theme=radical)](https://github.com/gon159x/github-readme-stats)
+
+​
+
 ## ¿𝑻𝒆 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒂 𝒎𝒊 𝒑𝒆𝒓𝒇𝒊𝒍? 𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒂𝒎𝒆:
 >📧 enzoholgadodev@gmail.com <br>
 ☎️ +57 322 380 4216 <br>
