@@ -13,7 +13,7 @@ Estoy buscando un puesto desafiante donde pueda continuar aprendiendo y aportar 
   𝗕𝗮𝗰𝗸𝗲𝗻𝗱: Node.js, Nest.js, Express, Sequelize, posgresql, mySql, nodemailer, etc. <br>
   𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: React.js, React-native, Redux, Css, Sass, Bootstrap, Material-UI, Native-base, etc.
   
-## Lenguajes y tecnologias 👨🏻•💻
+## 𝑳𝒆𝒏𝒈𝒖𝒂𝒋𝒆𝒔 𝒚 𝒕𝒆𝒄𝒏𝒐𝒍𝒐𝒈𝒊𝒂𝒔
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
