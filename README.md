@@ -33,9 +33,9 @@ Estoy buscando un puesto desafiante donde pueda continuar aprendiendo y aportar 
   𝗕𝗮𝗰𝗸𝗲𝗻𝗱: Node.js, Nest.js, Express, Sequelize, posgresql, mySql, nodemailer, etc. <br>
   𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: React.js, Next.js, React-native, Redux, Css, Sass, Tailwind Bootstrap, Material-UI, Native-base, etc.
 
-## Statistics 🧐
+## 𝑬𝒔𝒕𝒂𝒅í𝒔𝒕𝒊𝒄𝒂𝒔 
 
-[![Gon159x's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoen-DEV&theme=radical)](https://github.com/gon159x/github-readme-stats)
+[![Zoen-DEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoen-DEV&theme=radical)](https://github.com/gon159x/github-readme-stats)
 
 ​
 
