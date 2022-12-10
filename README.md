@@ -39,7 +39,7 @@ Estoy buscando un puesto desafiante donde pueda continuar aprendiendo y aportar 
 
 ​
 
-## ¿𝑻𝒆 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒂 𝒎𝒊 𝒑𝒆𝒓𝒇𝒊𝒍? 𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒂𝒎𝒆:
+## ¿𝑻𝒆 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒂 𝒎𝒊 𝒑𝒆𝒓𝒇𝒊𝒍? 𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒂𝒎𝒆:<br>
 >📧 enzoholgadodev@gmail.com <br><br>
 ☎️ +57 322 380 4216 <br><br>
 <a href= "https://www.linkedin.com/in/enzo-gabriel-holgado/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
