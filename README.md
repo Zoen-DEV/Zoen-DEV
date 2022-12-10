@@ -9,12 +9,6 @@ Soy una persona proactiva, organizada y responsable, con buenas habilidades inte
 Estoy buscando un puesto desafiante donde pueda continuar aprendiendo y aportar con todo lo que se a los proyectos que se me presenten.
 
 ## 𝑻𝒆𝒄𝒏𝒐𝒍𝒐𝒈𝒊𝒂𝒔 𝒒𝒖𝒆 𝒎𝒂𝒏𝒆𝒋𝒐:
-> 𝑳𝒆𝒏𝒈𝒖𝒂𝒋𝒆𝒔: Javascript, Typescript, Git. <br>
-  𝗕𝗮𝗰𝗸𝗲𝗻𝗱: Node.js, Nest.js, Express, Sequelize, posgresql, mySql, nodemailer, etc. <br>
-  𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: React.js, React-native, Redux, Css, Sass, Bootstrap, Material-UI, Native-base, etc.
-  
-## 𝑳𝒆𝒏𝒈𝒖𝒂𝒋𝒆𝒔 𝒚 𝒕𝒆𝒄𝒏𝒐𝒍𝒐𝒈𝒊𝒂𝒔
-
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -33,6 +27,10 @@ Estoy buscando un puesto desafiante donde pueda continuar aprendiendo y aportar 
 ![MongoDB](https://img.shields.io/badge/mongodb-6DA55F?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-52B0E7?style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+> 𝑳𝒆𝒏𝒈𝒖𝒂𝒋𝒆𝒔: Javascript, Typescript, Git. <br>
+  𝗕𝗮𝗰𝗸𝗲𝗻𝗱: Node.js, Nest.js, Express, Sequelize, posgresql, mySql, nodemailer, etc. <br>
+  𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: React.js, Next.js, React-native, Redux, Css, Sass, Tailwind Bootstrap, Material-UI, Native-base, etc.
 
 ## ¿𝑻𝒆 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒂 𝒎𝒊 𝒑𝒆𝒓𝒇𝒊𝒍? 𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒂𝒎𝒆:
 >📧 enzoholgadodev@gmail.com <br>
