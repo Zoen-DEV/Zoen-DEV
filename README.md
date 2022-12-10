@@ -39,11 +39,11 @@ Estoy buscando un puesto desafiante donde pueda continuar aprendiendo y aportar 
 
 ​
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoen-DEV&theme=radical)](https://github.com/Zoen-DEV/github-readme-stats)
+
 ## ¿𝑻𝒆 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒂 𝒎𝒊 𝒑𝒆𝒓𝒇𝒊𝒍? 𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒂𝒎𝒆:<br>
 >📧 enzoholgadodev@gmail.com <br><br>
 ☎️ +57 322 380 4216 <br><br>
 <a href= "https://www.linkedin.com/in/enzo-gabriel-holgado/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href = "https://enzoholgado.vercel.app/">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a> 
 
-## Numero de visitas ✅
-![Visitor Count](https://profile-counter.glitch.me/Zoen-DEV/count.svg)
