@@ -35,7 +35,7 @@ Estoy buscando un puesto desafiante donde pueda continuar aprendiendo y aportar 
 
 ## Statistics 🧐
 
-[![Gon159x's GitHub stats](https://github-readme-stats.vercel.app/api?username=gon159x&theme=radical)](https://github.com/gon159x/github-readme-stats)
+[![Gon159x's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoen-DEV&theme=radical)](https://github.com/gon159x/github-readme-stats)
 
 ​
 
