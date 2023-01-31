@@ -30,8 +30,8 @@ Estoy buscando un puesto desafiante donde pueda continuar aprendiendo y aportar 
 ![GIT](https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white)
 
 > ### 𝑳𝒆𝒏𝒈𝒖𝒂𝒋𝒆𝒔: Javascript, Typescript, Python, SQL/noSQL, Git. <br>
-  ### 𝗕𝗮𝗰𝗸𝗲𝗻𝗱: Node.js, Nest.js, Express, Sequelize, posgresql, mySql, nodemailer, etc. <br>
-  ### 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: React.js, Next.js, React-native, Redux, Css, Sass, Tailwind Bootstrap, Material-UI, Native-base, etc.
+> ### 𝗕𝗮𝗰𝗸𝗲𝗻𝗱: Node.js, Nest.js, Express, Sequelize, posgresql, mySql, nodemailer, etc. <br>
+> ### 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: React.js, Next.js, React-native, Redux, Css, Sass, Tailwind Bootstrap, Material-UI, Native-base, etc.
 
 ## 𝑬𝒔𝒕𝒂𝒅í𝒔𝒕𝒊𝒄𝒂𝒔 
 
