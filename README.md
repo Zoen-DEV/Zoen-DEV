@@ -1,4 +1,4 @@
-![bannerGH](https://user-images.githubusercontent.com/103465174/198051748-5a74ac40-2720-448f-b0c2-9d10facb9955.png)
+![Black Minimal Motivation Quote LinkedIn Banner (1)](https://user-images.githubusercontent.com/103465174/215633342-a16faa6d-1379-4193-b380-f303fa42b14a.png)
 
 ## 👤𝙎𝙤𝙗𝙧𝙚 𝙢𝙞:
 > Hola, mi nombre es Enzo, soy Fullstack developer.
