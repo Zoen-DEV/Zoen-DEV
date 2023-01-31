@@ -1,4 +1,4 @@
-![Black Minimal Motivation Quote LinkedIn Banner (1)](https://user-images.githubusercontent.com/103465174/215633342-a16faa6d-1379-4193-b380-f303fa42b14a.png)
+![Black Minimal Motivation Quote LinkedIn Banner (2)](https://user-images.githubusercontent.com/103465174/215633567-c89c9d1f-80d0-4752-b1db-b8f3b66688f6.png)
 
 ## 👤𝙎𝙤𝙗𝙧𝙚 𝙢𝙞:
 > Hola, mi nombre es Enzo, soy Fullstack developer.
@@ -29,9 +29,9 @@ Estoy buscando un puesto desafiante donde pueda continuar aprendiendo y aportar 
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white)
 
-> 𝑳𝒆𝒏𝒈𝒖𝒂𝒋𝒆𝒔: Javascript, Typescript, Python, SQL/noSQL, Git. <br>
-  𝗕𝗮𝗰𝗸𝗲𝗻𝗱: Node.js, Nest.js, Express, Sequelize, posgresql, mySql, nodemailer, etc. <br>
-  𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: React.js, Next.js, React-native, Redux, Css, Sass, Tailwind Bootstrap, Material-UI, Native-base, etc.
+> ### 𝑳𝒆𝒏𝒈𝒖𝒂𝒋𝒆𝒔: Javascript, Typescript, Python, SQL/noSQL, Git. <br>
+  ### 𝗕𝗮𝗰𝗸𝗲𝗻𝗱: Node.js, Nest.js, Express, Sequelize, posgresql, mySql, nodemailer, etc. <br>
+  ### 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: React.js, Next.js, React-native, Redux, Css, Sass, Tailwind Bootstrap, Material-UI, Native-base, etc.
 
 ## 𝑬𝒔𝒕𝒂𝒅í𝒔𝒕𝒊𝒄𝒂𝒔 
 
