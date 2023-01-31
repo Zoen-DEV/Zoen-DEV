@@ -1,11 +1,11 @@
 <a href = "https://enzoholgado.vercel.app/" target = "_blank" >![Black Minimal Motivation Quote LinkedIn Banner (2)](https://user-images.githubusercontent.com/103465174/215633567-c89c9d1f-80d0-4752-b1db-b8f3b66688f6.png)</a>
 
 ## 👤𝙎𝙤𝙗𝙧𝙚 𝙢𝙞:
-> Hola, mi nombre es Enzo, soy Fullstack developer.
-Soy una persona proactiva, organizada y responsable, con buenas habilidades interpersonales. Cuento con mas de 1 año de experiencia en el desarrollo de aplicaciones webs complejas con tecnologías basadas en Javascript.
+> Hola, yo soy Enzo, soy Fullstack developer.
+Y soy una persona proactiva, empatica y resolutiva, con buenas habilidades interpersonales. Cuento con 2 años de experiencia en el desarrollo de aplicaciones webs complejas con tecnologías basadas en Javascript.
 
 ## ¿𝙌𝙪𝙚 𝙥𝙪𝙚𝙙𝙚𝙨 𝙚𝙨𝙥𝙚𝙧𝙖𝙧 𝙙𝙚 𝙢𝙞?
-> He trabajado en equipos donde he podido aportar mucho con mis conocimientos tanto en backend como en frontend a los proyectos, ayudando a mis compañeros a encontrar soluciones y a que sea mas productivo el flujo de trabajo. Siempre tengo la mejor disposición para realizar las tareas que se me asignan.
+> He trabajado en equipos donde he podido aportar mucho con mis conocimientos tanto en backend como en frontend a los proyectos, desarrollando y ayudando a mis compañeros a encontrar soluciones y a que sea mas productivo el flujo de trabajo. Siempre tengo la mejor disposición para realizar las tareas que se me asignan.
 Estoy buscando un puesto desafiante donde pueda continuar aprendiendo y aportar con todo lo que se a los proyectos que se me presenten.
 
 ## 𝑻𝒆𝒄𝒏𝒐𝒍𝒐𝒈𝒊𝒂𝒔 𝒒𝒖𝒆 𝒎𝒂𝒏𝒆𝒋𝒐:
