@@ -1,4 +1,4 @@
-<a href = "https://enzoholgado.vercel.app/" target="_blank">![Black Minimal Motivation Quote LinkedIn Banner (2)](https://user-images.githubusercontent.com/103465174/215633567-c89c9d1f-80d0-4752-b1db-b8f3b66688f6.png)</a>
+<a href = "https://enzoholgado.vercel.app/" target = "_blank" >![Black Minimal Motivation Quote LinkedIn Banner (2)](https://user-images.githubusercontent.com/103465174/215633567-c89c9d1f-80d0-4752-b1db-b8f3b66688f6.png)</a>
 
 ## 👤𝙎𝙤𝙗𝙧𝙚 𝙢𝙞:
 > Hola, mi nombre es Enzo, soy Fullstack developer.
