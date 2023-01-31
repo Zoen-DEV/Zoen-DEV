@@ -1,4 +1,4 @@
-<a href = "https://enzoholgado.vercel.app/">![Black Minimal Motivation Quote LinkedIn Banner (2)](https://user-images.githubusercontent.com/103465174/215633567-c89c9d1f-80d0-4752-b1db-b8f3b66688f6.png)</a>
+<a href = "https://enzoholgado.vercel.app/" target="_blank">![Black Minimal Motivation Quote LinkedIn Banner (2)](https://user-images.githubusercontent.com/103465174/215633567-c89c9d1f-80d0-4752-b1db-b8f3b66688f6.png)</a>
 
 ## 👤𝙎𝙤𝙗𝙧𝙚 𝙢𝙞:
 > Hola, mi nombre es Enzo, soy Fullstack developer.
@@ -44,6 +44,6 @@ Estoy buscando un puesto desafiante donde pueda continuar aprendiendo y aportar 
 ## ¿𝑻𝒆 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒂 𝒎𝒊 𝒑𝒆𝒓𝒇𝒊𝒍? 𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒂𝒎𝒆:<br>
 >📧 enzoholgadodev@gmail.com <br><br>
 ☎️ +57 322 380 4216 <br><br>
-<a href= "https://www.linkedin.com/in/enzo-gabriel-holgado/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href = "https://enzoholgado.vercel.app/">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a> 
+<a href= "https://www.linkedin.com/in/enzo-gabriel-holgado/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href = "https://enzoholgado.vercel.app/" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a> 
 
