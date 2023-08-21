@@ -2,7 +2,7 @@
 
 ## 👤𝙎𝙤𝙗𝙧𝙚 𝙢𝙞:
 > Hola, yo soy Enzo, soy Fullstack developer.
-Y soy una persona proactiva, empatica y resolutiva, con buenas habilidades interpersonales. Cuento con 2 años de experiencia en el desarrollo de aplicaciones webs complejas con tecnologías basadas en Javascript.
+Soy una persona proactiva, empatica y resolutiva, con buenas habilidades interpersonales. Cuento con 2 años de experiencia en el desarrollo de aplicaciones webs complejas con tecnologías basadas en Javascript.
 
 ## ¿𝙌𝙪𝙚 𝙥𝙪𝙚𝙙𝙚𝙨 𝙚𝙨𝙥𝙚𝙧𝙖𝙧 𝙙𝙚 𝙢𝙞?
 > He trabajado en equipos donde he podido aportar mucho con mis conocimientos tanto en backend como en frontend a los proyectos, desarrollando y ayudando a mis compañeros a encontrar soluciones y a que sea mas productivo el flujo de trabajo. Siempre tengo la mejor disposición para realizar las tareas que se me asignan.
